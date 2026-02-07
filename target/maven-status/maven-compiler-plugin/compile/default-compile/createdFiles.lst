@@ -13,9 +13,12 @@ com/vsglamstudio/model/SystemConfiguration.class
 com/vsglamstudio/controllers/GalleryController.class
 com/vsglamstudio/dto/GalleryItemDto.class
 com/vsglamstudio/repository/BookingRepository.class
+com/vsglamstudio/model/CustomerInqury$CustomerInquryBuilder.class
 com/vsglamstudio/dto/BrandDto.class
 com/vsglamstudio/model/CustomerBooking.class
+com/vsglamstudio/repository/CustomerInquryRepository.class
 com/vsglamstudio/model/Blog.class
+com/vsglamstudio/services/EmailService.class
 com/vsglamstudio/dto/HeroDto.class
 com/vsglamstudio/repository/CustomerServiceRepository.class
 com/vsglamstudio/model/CustomerService.class
@@ -23,10 +26,13 @@ com/vsglamstudio/dto/SiteDto.class
 com/vsglamstudio/config/WebConfig.class
 com/vsglamstudio/dto/ServiceDto.class
 com/vsglamstudio/model/CustomerService$CustomerServiceBuilder.class
+com/vsglamstudio/service/CustomerInquryService.class
 com/vsglamstudio/dto/ReviewDto.class
 com/vsglamstudio/dto/ContactDto.class
+com/vsglamstudio/model/CustomerInqury.class
 com/vsglamstudio/dto/CourseDto.class
 com/vsglamstudio/controllers/SiteController.class
+com/vsglamstudio/utility/EmailTemplateUtil.class
 com/vsglamstudio/repository/BlogRepository.class
 com/vsglamstudio/services/DataService.class
 com/vsglamstudio/model/ContactUs.class
