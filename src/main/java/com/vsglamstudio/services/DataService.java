@@ -20,7 +20,7 @@ public class DataService {
     public DataService() {
         // Site
         site = new SiteDto();
-        site.setBrand(new BrandDto("VS Glam Studio", "Makeup Artist & Educator", "Noida", ""));
+        site.setBrand(new BrandDto("VS Glam Studio", "Makeup Artist & Educator", "Noida", "https://res.cloudinary.com/dlajz9hrd/image/upload/v1770521258/DSC_0383_eau3pz.jpg"));
         site.setHero(new HeroDto("Soft glam for modern brides", "Elevated bridal and fashion artistry with skin-first finishes and timeless technique.", "Book a consultation", "Explore services"));
         site.setContact(new ContactDto("vsglamstudio03@gmail.com", "+91 8707650187", "VS Glam Studio Noida Sector 121", "Mon-Sat · 10 AM - 7 PM", "https://maps.google.com"));
 
